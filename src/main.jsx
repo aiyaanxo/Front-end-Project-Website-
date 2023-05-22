@@ -9,10 +9,10 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import App from './routes/App';
-import About from './routes/about.jsx';
-import Blog from './routes/blog.jsx';
-import Contact from './routes/contact.jsx';
-import Course from './routes/course.jsx';
+import About from './routes/About.jsx';
+import Blog from './routes/Blog.jsx';
+import Contact from './routes/Contact.jsx';
+import Course from './routes/Course.jsx';
 import Root from './routes/Root.jsx';
 const router = createBrowserRouter([
   {
