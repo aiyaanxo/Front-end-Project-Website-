@@ -59,7 +59,7 @@ export default function Root()
        <FontAwesomeIcon icon={faTwitter} />
     </div>
     <p>
-      Made with <FontAwesomeIcon icon={faHeart}/> By Aiyaan Hasan
+      Made with <FontAwesomeIcon icon={faHeart}/> By Group 8 
     </p>
   </section>
         </>
